@@ -1,4 +1,4 @@
-# Apache JMeter - API Testing with JSONPlaceholder
+# Apache JMeter - API Testing with JSONPlaceholder.
 
 ## 1. Giới thiệu
 
