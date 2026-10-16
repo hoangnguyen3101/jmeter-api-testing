@@ -378,9 +378,8 @@ Bên cạnh đó, JSON Assertion được áp dụng nhằm xác minh giá trị
 
 Bài thực hành giúp củng cố kiến thức cơ bản về kiểm thử API, phân tích số liệu hiệu năng và quản lý các tài liệu kiểm thử bằng GitHub. Đây là cơ sở để tiếp tục tìm hiểu các kỹ thuật kiểm thử chức năng và hiệu năng phần mềm ở mức nâng cao hơn.
 
-## 10. Repository và tài liệu tham khảo
+## 10. Tài liệu tham khảo
 
-- **GitHub repository:** [Hoangthingoc216/jmeter-api-testing](https://github.com/Hoangthingoc216/jmeter-api-testing)
 - **Apache JMeter:** https://jmeter.apache.org/
 - **JSONPlaceholder:** https://jsonplaceholder.typicode.com/
 - **Endpoint được kiểm thử:** https://jsonplaceholder.typicode.com/posts/1
